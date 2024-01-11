@@ -27,10 +27,8 @@ Now, let's start talking about my interests:
 - **🍎 Physics:** Relativity, Fluid, Quantum Physics, and Thermodynamics are all just interesting for me. 
 - **💻 Computer Science:** I always found this world interesting. I like everything on it.
 - **🚀 Rocket Science:** I'm planning to learn rocket science and its branches for fun and perhaps to build a rocket in future?
-- **🎞️ Animation:** Unfortunately, I couldn't even start on this. I understand that animating takes a lot of time and it's hard to do but I may try it one day.
 
-
- <u>**🏫 Favorite School Subjects:**</u>
+#### <u>**🏫 Favorite Subjects:**</u>
 
 > ♾️ Mathematics, ⚛️ Physics, 🌎 English
 
@@ -40,19 +38,31 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 
 ### ⚙️ Programming languages and tools
 
-**🔧 Tools I use:**
+#### **👨‍💻 Tools I use:**
 
-> Visual Studio Code, IntelliJ, Android Studio, Visual Studio...etc.
+<img src=".\logos\vscode.png" style="width:60px;" align="left" />
 
+<img src=".\logos\IntelliJ_IDEA_icon.png" style="width:60px;" align="left" />
 
+<img src=".\logos\Visual-Studio.svg" style="width:60px;" align="left" />
 
-**⚙️ Programming languages:**
+<img src=".\logos\PyCharm.svg" style="width:60px;" align="left" />
 
-> Python, Java, JavaScript. May learn C and C++ and C#
+<img src=".\logos\Android-Studio.png" style="width:60px;" align="left" />
 
+<img src=".\logos\Figma-Icon.svg" style="width:50px;" align="left" />
 
+#### **⚙️ Programming languages:**
 
-Sorry, I use Windows as my main Operating System. However, I use Linux in my VMware sometimes for fun.
+<img src=".\logos\python-logo.svg" style="width:60px;" align="left" />
+
+<img src=".\logos\Java.svg" style="width:60px;" align="left" />
+
+<img src=".\logos\JavaScript.png" style="width:60px; border-radius: 5px;" align="left" />
+
+<img src=".\logos\PHP.svg" style="width:60px;" align="left" />
+
+There may be other coding languages/tools that I use that are not mentioned here.
 
 ---
 
