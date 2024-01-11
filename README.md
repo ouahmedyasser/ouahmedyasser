@@ -40,7 +40,7 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 
 #### **👨‍💻 Tools I use:**
 
-<div>
+<div align="center">
 <img src=".\logos\vscode.png" style="width:60px;" align="left" />
 
 <img src=".\logos\IntelliJ_IDEA_icon.png" style="width:60px;" align="left" />
@@ -58,7 +58,7 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 
 #### **⚙️ Programming languages:**
 
-<div>
+<div  align="center">
 <img src=".\logos\python-logo.svg" style="width:60px;" align="left" />
 
 <img src=".\logos\Java.svg" style="width:60px;" align="left" />
