@@ -40,25 +40,27 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 
 #### **👨‍💻 Tools I use:**
 
-<div align="center">
+<p align="center">
+
 <img src=".\logos\vscode.png" style="width:60px;" align="left" />
 
 <img src=".\logos\IntelliJ_IDEA_icon.png" style="width:60px;" align="left" />
 
 <img src=".\logos\Visual-Studio.svg" style="width:60px;" align="left" />
 
-<img src=".\logos\PyCharm.svg" style="width:60px;" align="left" />
+<img src=".\logos\Pycharm.svg" style="width:60px;" align="left" />
 
 <img src=".\logos\Android-Studio.png" style="width:60px;" align="left" />
 
 <img src=".\logos\Figma-Icon.svg" style="width:50px;" align="left" />
-</div>
 
-<br/>
+</p>
+
 
 #### **⚙️ Programming languages:**
 
-<div  align="center">
+<p align="center">
+
 <img src=".\logos\python-logo.svg" style="width:60px;" align="left" />
 
 <img src=".\logos\Java.svg" style="width:60px;" align="left" />
@@ -66,9 +68,8 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 <img src=".\logos\JavaScript.png" style="width:60px; border-radius: 5px;" align="left" />
 
 <img src=".\logos\PHP.svg" style="width:60px;" align="left" />
-</div>
 
-<br/>
+</p>
 
 There may be other coding languages/tools that I use that are not mentioned here.
 
