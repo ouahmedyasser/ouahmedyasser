@@ -62,8 +62,6 @@ Anyways, I consider myself lifelong learner. I do not really learn many stuff fo
 
 <img src=".\logos\PHP.svg" style="width:60px;" />
 
->  There may be other coding languages/tools that I use that are not mentioned here.
-
 ---
 
 ### 🌐 Social Media
